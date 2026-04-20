@@ -2,9 +2,9 @@
 
 这个仓库用于托管自有的 `StreamSaver.js` 中转页，给用户脚本中的批量下载流程使用。
 
-部署后可用地址：
+部署后页面地址：
 
-- `https://hmilyfyj.github.io/streamsaver-mitm-site/mitm.html`
+- `https://b.fengbl.cn/streamsaver-mitm-site/mitm.html`
 
 需要一起保留的文件：
 
@@ -20,5 +20,5 @@ https://jimmywarting.github.io/StreamSaver.js/mitm.html?version=2.0.0
 替换成：
 
 ```js
-https://hmilyfyj.github.io/streamsaver-mitm-site/mitm.html?version=2.0.0
+https://b.fengbl.cn/streamsaver-mitm-site/mitm.html?version=2.0.0
 ```
