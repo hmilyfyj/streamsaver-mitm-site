@@ -4,7 +4,7 @@
 
 部署后页面地址：
 
-- `https://b.fengbl.cn/streamsaver-mitm-site/mitm.html`
+- `https://i.von.im/mitm.html`
 
 需要一起保留的文件：
 
@@ -20,5 +20,5 @@ https://jimmywarting.github.io/StreamSaver.js/mitm.html?version=2.0.0
 替换成：
 
 ```js
-https://b.fengbl.cn/streamsaver-mitm-site/mitm.html?version=2.0.0
+https://i.von.im/mitm.html?version=2.0.0
 ```
